@@ -92,8 +92,16 @@ tag>``
 jenis tag yang sering digunakan dalam html
 berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
 
-|   Tag HTML.   |   KEGUNAAN    |
-| ------------- | ------------- |
-|   <!– ….–>    |   Digunakan untuk memberi sebuah komentar atau keterangan |
-|   ``<a>link</a>`` |   Mendefinisikan sebuah anchor, digunakan untuk saling menautkan antara satu dokumen HTML ke dokumen HTML yang lain ``membuat link`` |
-| ``<b> .. </b>`` | membuat teks menjadi tebal |
+|   Tag HTML.     |   KEGUNAAN    |
+| --------------- | ------------- |
+|   <!– ….–>      |   Digunakan untuk memberi sebuah komentar atau keterangan |
+| ``<a>link</a>`` | Mendefinisikan sebuah anchor, digunakan untuk saling menautkan antara satu dokumen HTML ke dokumen HTML yang lain ``membuat link`` |
+| ``<b> .. </b>`` | Membuat teks menjadi tebal |
+| ``<td>``
+        |  Mendefinisikan sel di dalam sebuah table |
+| ``<tr>``        |
+  Membuat baris di dalam sebuah table |
+| ``<ul>``
+        |  Mendefinisikan daftar dalam format bullet |
+| ``<li>``        | 
+ Mmendefinisikan list |
