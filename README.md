@@ -96,3 +96,4 @@ berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
 | ------------- | ------------- |
 |   <!– ….–>    |   Digunakan untuk memberi sebuah komentar atau keterangan |
 |   ``<a>link</a>`` |   Mendefinisikan sebuah anchor, digunakan untuk saling menautkan antara satu dokumen HTML ke dokumen HTML yang lain ``membuat link`` |
+| ``<b> .. </b>`` | membuat teks menjadi tebal |
