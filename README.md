@@ -91,3 +91,8 @@ tag>``
 
 jenis tag yang sering digunakan dalam html
 berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
+
+|   Tag HTML.   |   KEGUNAAN    |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
