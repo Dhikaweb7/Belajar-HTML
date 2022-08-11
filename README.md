@@ -37,7 +37,27 @@ web browser dan file html di simpan dengan ekstensi ``.html`` (dot html).
 
 # ALAT YANG DIPERLUKAN
   <details>
+  <summary>
+  Browser
+  </summary>
   <br>
-  Browser 
+  Browser merupakan aplikasi yang akan kita gunakan untuk menjalankan code program
+html yang sudah kita tulis. browser ini ialah syarat yang harus anda penuhi jika anda belajar web
+programing. untuk browser itu sendiri bisa digunakan yang sudah disediakan oleh sistem operasi
+langsung ataupun bisa juga digunakan aplikasi browser yang lain seperti: Mozilla Firefox,
+Opera, Chrome dan sebagainya.
   </details>
-
+<details>
+  <summary>
+  Text Editor 
+  </summary>
+  <br>
+  Text Editor merupakan aplikasi yang digunakan untuk menulis syntax atau kode program,
+disini khususnya untuk penulisan kode program HTML itu sendiri. Text editor sendiri sangatlah
+banyak yang bisa digunakan untuk penulisan kode HTML, contohnya seperti Notepad yang
+disediakan oleh sistem operasi windows, Textedit yang disediakan oleh sistem operasi Mac dan
+Nano yang disediakan oleh sistem operasi linux. Text editor berbeda dengan Word Processor
+(Microsoft Word, King Soft, WordPerfect). Itu dikarenakan text editor tidak bisa digunakan
+untuk mengatur format document serta tidak disediakan fitur-fitur yang bisa digunakan untuk
+desktop publishing
+</details>
