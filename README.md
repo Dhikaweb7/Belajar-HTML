@@ -62,8 +62,7 @@ untuk mengatur format document serta tidak disediakan fitur-fitur yang bisa digu
 desktop publishing
 </details>
 
-# Mengenal Tag, Element, Atribut
- HTML
+# Mengenal Tag, Element, Atribut HTML
 
 Setelah sebelumnya kita membahas tentang Pengenalan HTML, Text Editor. kini kita
 akan memasuki tutorial pengenalan dan penggunaan Tag, Element dan Atribut dalam HTMl.
