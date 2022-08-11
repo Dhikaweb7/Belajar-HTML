@@ -95,4 +95,4 @@ berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
 |   Tag HTML.   |   KEGUNAAN    |
 | ------------- | ------------- |
 |   <!– ….–>    |   Digunakan untuk memberi sebuah komentar atau keterangan |
-| Content Cell  | Content Cell  |
+|   ``<a>link</a>`` |   Mendefinisikan sebuah anchor, digunakan untuk saling menautkan antara satu dokumen HTML ke dokumen HTML yang lain ``membuat link`` |
