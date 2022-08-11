@@ -61,3 +61,11 @@ Nano yang disediakan oleh sistem operasi linux. Text editor berbeda dengan Word 
 untuk mengatur format document serta tidak disediakan fitur-fitur yang bisa digunakan untuk
 desktop publishing
 </details>
+
+# Mengenal Tag, Element, Atribut
+ HTML
+
+Setelah sebelumnya kita membahas tentang Pengenalan HTML, Text Editor. kini kita
+akan memasuki tutorial pengenalan dan penggunaan Tag, Element dan Atribut dalam HTMl.
+Ketiga pembahasan ini merupakan dasar dalam penulisan kode HTML atau dasar dari seluruh
+tampilan halaman web yang ada di internet.
