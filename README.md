@@ -68,3 +68,17 @@ Setelah sebelumnya kita membahas tentang Pengenalan HTML, Text Editor. kini kita
 akan memasuki tutorial pengenalan dan penggunaan Tag, Element dan Atribut dalam HTMl.
 Ketiga pembahasan ini merupakan dasar dalam penulisan kode HTML atau dasar dari seluruh
 tampilan halaman web yang ada di internet.
+
+# Tag HTML
+
+Tag merupakan kode yang digunakan untuk memperkenalkan pada web browser untuk
+apa text HTML yang ditulis. HTML membutuhkan cara memperkenalkan text yang ditulis
+didalamnya kepada web browser. baik text itu berupa list, paragraf, link dan sebagainya.
+disinilah di gunakan tag. dalam penulisan tag, hampir semua menggunakan pembuka dan
+penutup tag, dimana objek yang di maksudkan berada diantara pembuka dan penutup tag. berikut
+penulisan tag yang digunakan dalam HTML
+
+```html
+<tag> Objek yang diisi </tag>
+
+```
