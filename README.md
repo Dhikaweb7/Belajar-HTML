@@ -82,3 +82,12 @@ penulisan tag yang digunakan dalam HTML
 <tag> Objek yang diisi </tag>
 
 ```
+Perbedaan antara tag pembuka dan tag penutup yaitu, pada tag pembuka diawali kurung
+sudut pembuka dan di akhiri dengan kurung sudut penutup ``(<tag>)``, sedangkan pada tag penutup
+,diawali dengan kurung sudut pembuka, backslash, dan diakhiri dengan penutup kurung sudut 
+
+``<
+tag>``
+
+jenis tag yang sering digunakan dalam html
+berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
