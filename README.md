@@ -112,3 +112,25 @@ berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
 | ``<tr>``        | Membuat baris di dalam sebuah table |
 | ``<ul>``        | Mendefinisikan daftar dalam format bullet |
 | ``<li>``        | mendefinisikan list |
+
+# Element di HTML
+Element pada HTML merupakan isi atau objek yang berada pada tag. maksudnya, isi
+yang ada diantara tag pembuka dan tag penutup di sebut dengan elemen misalkan :
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SMK RADEN PAKU | X TKJ 1</title>
+</head>
+<body>
+ <strong>
+  <h2>Pengenalalan atribut HTML</h2>
+ </strong>
+</body>
+</html>
+```
+
+pada contoh diatas ``<h2>`` adalah heading dua ``<h2>`` merupakan element ``h2`` dan isinya ini adalah
+heading dua. dalam element ini bisa berupa text ataupun tag lain misalnya ``<link>`` dan
+sebagainya.
