@@ -97,11 +97,7 @@ berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
 |   <!– ….–>      |   Digunakan untuk memberi sebuah komentar atau keterangan |
 | ``<a>link</a>`` | Mendefinisikan sebuah anchor, digunakan untuk saling menautkan antara satu dokumen HTML ke dokumen HTML yang lain ``membuat link`` |
 | ``<b> .. </b>`` | Membuat teks menjadi tebal |
-| ``<td>``
-        |  Mendefinisikan sel di dalam sebuah table |
-| ``<tr>``        |
-  Membuat baris di dalam sebuah table |
-| ``<ul>``
-        |  Mendefinisikan daftar dalam format bullet |
-| ``<li>``        | 
- Mmendefinisikan list |
+| ``<td>``        | Mendefinisikan sel di dalam sebuah table |
+| ``<tr>``        | Membuat baris di dalam sebuah table |
+| ``<ul>``        | Mendefinisikan daftar dalam format bullet |
+| ``<li>``        | mendefinisikan list |
