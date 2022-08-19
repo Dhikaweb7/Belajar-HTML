@@ -10,7 +10,7 @@ dari pembangunan sebuah website. jika di ibaratkan HTML menjadi pondasi pada seb
 atau bangunan. karena bentuk pada halaman website di buat menggunakan HTML. ini akan di jelaskan tentang pengertian dari HTML
 dan sekilas tentang sejarah HTML dan perkembangannya 
 
-# KEGUNAAN HTML 
+# KEGUNAAN HTML 💽
   HTML berfungsi sebagai pondasi sebuah halaman website. adapun yang dapat di lakukan
 dengan HTML adalah sebagai berikut :
 
@@ -35,7 +35,7 @@ jadi kesimpulan dari pengertian HTML ini adalah HTML merupakan pondasi dasar dar
 pembuatan sebuah website. untuk mengeksekusi atau menjalankan file html harus menggunakan
 web browser dan file html di simpan dengan ekstensi ``.html`` (dot html).
 
-# ALAT YANG DIPERLUKAN
+# ALAT YANG DIPERLUKAN ✅
   <details>
   <summary>
   Browser
