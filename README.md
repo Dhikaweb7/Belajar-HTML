@@ -163,3 +163,19 @@ Perhatikan pada syntax di atas :
 - ``“Pengenalan atribut HTML”`` adalah element dari tag h2
 Tidak semua tag ini membutuhkan atribut di dalamnya, namun bagi anda yang bergelut di
 web programing akan sering menjumpai tag yang didalamnya terdapat atribut.
+
+# Heading 🌿
+Heading merupakan element atau tag HTML yang berfungsi untuk menunjukkan bagian
+penting pada halaman web. element tag heading ini memiliki 6 tingkatan yang berurutan yaitu ``<h1>`` , ``<h2>``, ``<h3>`` , ``<h4>`` , ``<h5>`` , ``<h6>`` yang bisa digunakan untuk menambah ke struktur halaman
+web. perbedaan masing-masing heading yaitu besar hingga kecil teks. contohnya tag/element
+
+``<h1>`` lebih besar dari element/tag ``<h2>`` dan seterusnya.
+Penggunaan masing-masing heading juga berbeda, berikut penggunaan masing-masing
+tag/element heading yang sering digunakan pada pengolahan halaman web :
+- ``<h1>`` adalah heading yang digunakan untuk penulisan judul utama dari dokumen
+- ``<h2>`` adalah heading yang digunakan sebagai sub dari ``<h1>``
+- ``<h3>`` adalah heading yang digunakan sebagai sub dari ``<h2>``
+
+untuk penggunaan ``<h4>`` ``<h4>`` ``<h5>`` ``<h6>`` tergantung programmer sendiri untuk memperindah
+halaman web sesuai keperluan.
+berikut contoh penerapan masing-masing element/tag heading :
