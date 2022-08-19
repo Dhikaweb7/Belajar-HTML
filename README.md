@@ -179,3 +179,24 @@ tag/element heading yang sering digunakan pada pengolahan halaman web :
 untuk penggunaan ``<h4>`` ``<h4>`` ``<h5>`` ``<h6>`` tergantung programmer sendiri untuk memperindah
 halaman web sesuai keperluan.
 berikut contoh penerapan masing-masing element/tag heading :
+
+```html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<h1>ini adalah heading 1</h1>
+<h2>ini adalah heading 2</h2>
+<h3>ini adalah heading 3</h3>
+<h4>ini adalah heading 4</h4>
+<h5>ini adalah heading 5</h5>
+<h6>ini
+adalah heading 6</h6>
+</body>
+</html>
+
+```
+
