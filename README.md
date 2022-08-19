@@ -83,11 +83,10 @@ penulisan tag yang digunakan dalam HTML
 
 ```
 Perbedaan antara tag pembuka dan tag penutup yaitu, pada tag pembuka diawali kurung
-sudut pembuka dan di akhiri dengan kurung sudut penutup ``(<tag>)``, sedangkan pada tag penutup
+sudut pembuka dan di akhiri dengan kurung sudut penutup ``<tag>``, sedangkan pada tag penutup
 ,diawali dengan kurung sudut pembuka, backslash, dan diakhiri dengan penutup kurung sudut 
 
-``<
-tag>``
+``</tag>``
 
 jenis tag yang sering digunakan dalam html
 berikut beberapa jenis tag yang akan sering anda jumpai kalo di web programing :
@@ -134,3 +133,10 @@ yang ada diantara tag pembuka dan tag penutup di sebut dengan elemen misalkan :
 pada contoh diatas ``<h2>`` adalah heading dua ``<h2>`` merupakan element ``h2`` dan isinya ini adalah
 heading dua. dalam element ini bisa berupa text ataupun tag lain misalnya ``<link>`` dan
 sebagainya.
+
+# Atribut 🍁
+  Atribut merupakan informasi tambahan yang digunakan di dalam tag pembuka. informasi
+ini bisa berupa instruksi untuk memberikan efek warna, ketebalan, dll. atribut bisanya memiliki 2 bagian yaitu nama dan nilai, dapat ditulis dengan ( name=”value” ). penulisan nilai/value diapit
+oleh dua tanda kutip (bisa digunakan kutip satu atau kutip dua).
+Penulisan atribut pada HTML diawali dengan penulisan tag, didalam tag berikan atribut
+dan element dari tag itu sendiri berikut contoh penulisan atribut pada HTML :
