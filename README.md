@@ -125,7 +125,7 @@ yang ada diantara tag pembuka dan tag penutup di sebut dengan elemen misalkan :
 </head>
 <body>
  <strong>
-  <h2>Pengenalalan atribut HTML</h2>
+  <h2>Pengenalan atribut HTML</h2>
  </strong>
 </body>
 </html>
