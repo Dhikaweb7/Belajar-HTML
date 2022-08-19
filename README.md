@@ -136,7 +136,30 @@ sebagainya.
 
 # Atribut 🍁
   Atribut merupakan informasi tambahan yang digunakan di dalam tag pembuka. informasi
-ini bisa berupa instruksi untuk memberikan efek warna, ketebalan, dll. atribut bisanya memiliki 2 bagian yaitu nama dan nilai, dapat ditulis dengan ( name=”value” ). penulisan nilai/value diapit
+ini bisa berupa instruksi untuk memberikan efek warna, ketebalan, dll. atribut bisanya memiliki 2 bagian yaitu nama dan nilai, dapat ditulis dengan ( 
+``` name=”value” ```  ). penulisan nilai/value diapit
 oleh dua tanda kutip (bisa digunakan kutip satu atau kutip dua).
 Penulisan atribut pada HTML diawali dengan penulisan tag, didalam tag berikan atribut
 dan element dari tag itu sendiri berikut contoh penulisan atribut pada HTML :
+
+```html 
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SMK RADEN PAKU | X TKJ 1</title>
+</head>
+ <body>
+  <h2 align="center">Pengenalan atribut HTML</h2>
+ </body>
+</html>
+
+```
+
+Perhatikan pada syntax di atas :
+- ``<h2>`` adalah tag heading 2
+- ``align`` adalah nama dari atribut
+- ``center`` adalah nilai/value dari atribut
+- ``“Pengenalan atribut HTML”`` adalah element dari tag h2
+Tidak semua tag ini membutuhkan atribut di dalamnya, namun bagi anda yang bergelut di
+web programing akan sering menjumpai tag yang didalamnya terdapat atribut.
