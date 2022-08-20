@@ -199,4 +199,6 @@ adalah heading 6</h6>
 </html>
 
 ```
+ketika dijalankan di browser maka hasilnya akan seperti ini :
 
+![heading](https://user-images.githubusercontent.com/107765982/185721868-372a19d2-a882-481a-ad00-fb93e40714cb.jpeg)
