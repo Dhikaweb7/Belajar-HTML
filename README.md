@@ -364,3 +364,21 @@ tag tersebut yaitu :
 <p align=”justify”> .. isi paragraph </p>
 
 ```
+contoh penerapan nya :
+
+```html 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>belajar membuat paragraf</title>
+</head>
+<body>
+<p align="left">1. ini merupakan penulisan paragraf rata kiri dalam dokument HTML</p>
+<p align="right">2. ini merupakan penulisan paragraf rata kanan dalam dokument HTML</p>
+<p align="center">3. ini merupakan penulisan paragraf rata tengah dalam dokument HTML</p>
+<p align="justify">4. ini merupakan penulisan paragraf rata kiri kanan dalam dokument HTML</p>
+</body>
+</html>
+
+```
