@@ -248,3 +248,8 @@ contohnya :
 | ``<u>``   | format text underline/garis bawah |
 | ``<small>`` | format text kecil |
 | ``<strong>`` | format text yang hampir sama dengan format bold |
+| ``<sub>`` | format subscripted teks |
+| ``<sup>`` | format superscripted teks |
+| ``<ins>`` | format text garis bawah | 
+| ``<del>`` | format text dengan garis di tengah |
+| ``<mark>`` | format text yang berwarna (seperti stabilo) |
