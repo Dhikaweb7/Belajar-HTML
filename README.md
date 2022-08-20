@@ -253,3 +253,36 @@ contohnya :
 | ``<ins>`` | format text garis bawah | 
 | ``<del>`` | format text dengan garis di tengah |
 | ``<mark>`` | format text yang berwarna (seperti stabilo) |
+
+Ini tag tag yang dipelajari diatas :
+
+```html
+
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>belajar format format text</title>
+ </head>
+ <body>
+
+
+   <!-- ini komentar pada html dan tidak akan bisa di lihat user pada website , tag komentar hanya berguna bagi programmer untuk menandai bagian bagian yang perlu di tandai --->
+   <!-- tag <br> digunakan untuk membuat baris baru --->
+<b>ini format format text tebal</b>
+   <br>
+   <i>ini format text italic</i>
+   <br>
+   <u>ini format text underline</u>
+   <br>
+   <em>ini format text em</em><br>
+   <small>ini format text small</small><br/>
+   <strong>ini format text strong</strong><br/>
+   <sub>ini format text sub</sub><br/>
+   <sup>ini format text sup</sup><br/>
+   <ins>ini format text ins</ins><br/>
+   <del>ini format text del</del><br/>
+   <mark>ini format text mark</mark>
+ </body>
+</html>
+
+```
