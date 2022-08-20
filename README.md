@@ -204,4 +204,24 @@ ketika dijalankan di browser maka hasilnya akan seperti ini :
 ![heading](https://user-images.githubusercontent.com/107765982/185721868-372a19d2-a882-481a-ad00-fb93e40714cb.jpeg)
 
 
-# Format Text Pada HTML
+# Format Text Pada HTML ⌨️
+
+Dalam penuliasan HTML sangat sering menggunakan format text didalamanya. baik itu
+dalam penulisan judul, ataupun isi dari konten/halaman
+website sendiri. Berikut beberapa
+penjelasan dan contoh dari Format Text Pada HTML
+
+Format yang umum digunakan:
+
+Membuat huruf tebal ( bold )
+untuk membuat teks menjadi tebal pada
+ tampilan halaman web
+, bisa
+ menggunakan tag
+``<b>`` berikut
+ contoh
+syntax HTML untuk membuat format text tebal 
+
+```html
+ <b>ini teks tebal</b> 
+```
