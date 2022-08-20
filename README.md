@@ -306,3 +306,6 @@ Ini tag tag yang dipelajari diatas :
 </html>
 
 ```
+ketika di jalankan di browser maka hasilnya akan seperti ini :
+
+![format](https://user-images.githubusercontent.com/107765982/185723558-8ba4d401-2c39-4f28-9b3e-b75c2f903138.jpeg)
