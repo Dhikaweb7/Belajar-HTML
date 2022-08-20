@@ -239,3 +239,12 @@ contohnya :
 ```html
 <u>ini text underline</u>
 ```
+# Format text yang sering digunakan dalam HTML
+
+| Tag | Deskripsi |
+| --- | --------- |
+| ``<b>``  | format text bold/tebal |
+| ``<i>``  | format text italic/miring |
+| ``<u>``   | format text underline/garis bawah |
+| ``<small>`` | format text kecil |
+| ``<strong>`` | format text yang hampir sama dengan format bold |
