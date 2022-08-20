@@ -213,7 +213,7 @@ penjelasan dan contoh dari Format Text Pada HTML
 
 Format yang umum digunakan:
 
-Membuat huruf tebal ( bold )
+- Membuat huruf tebal ( Bold )
 untuk membuat teks menjadi tebal pada
  tampilan halaman web
 , bisa
@@ -224,4 +224,18 @@ syntax HTML untuk membuat format text tebal
 
 ```html
  <b>ini teks tebal</b> 
+```
+- Membuat huruf miring ( Italic )
+untuk membuat teks miring pada HTML, kita bisa menggunakan tag ``<i>``. contohnya:
+
+```html
+<i>ini text miring</i>
+```
+
+- Membuat huruf bergaris bawah (underline) pada HTML
+untuk membuat teks underline/garis bawah pada HTML kita bias menggunakan tag ``<u>``.
+contohnya :
+
+```html
+<u>ini text underline</u>
 ```
