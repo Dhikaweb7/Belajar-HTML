@@ -357,7 +357,7 @@ tag tersebut yaitu :
 
 ```
 
-- Membuat paragraf rata kiri kanan menggunaan
+- Membuat paragraf rata kiri kanan menggunakan
 
 ```html
 
@@ -382,3 +382,48 @@ contoh penerapan nya :
 </html>
 
 ```
+
+# Membuat Tabel 
+
+ T
+abel merupakan struktur yang digunakan untuk menampilkan informasi dalam
+bentuk
+baris dan kolom. pada HTML, untuk pembuatan tabel menggunakan tag 
+
+<kbd><table
+></kbd>
+
+
+dan
+ menggunakan tag
+```<tr>``` untuk membuat baris dan ```<td>``` u
+ntuk membuat kolom.
+
+
+Untuk lebih
+ mudah
+memahami
+ dalam
+ pembuata
+n table pada HTML,
+berikut saya sajikan
+penjelasan tag yang terlibat dalam pembuatan table pada HTML.
+Tag
+ ```<table>``` merupakan tag pembuka dalam membuat sebuah table pada html, tanpa
+```<table>``` ini,
+penggunaan ``<tr>`` dan ``<td>`` tidak bisa difungsikan dengan baik.
+```<tr>``` atau dikenal
+dengan
+table row
+merupakan tag yang digunakan untuk membuat baris dalam table HTML
+.
+```<td>```
+atau dikenal dengan
+table data
+ mer
+u
+pakan tag yang digunakan untu
+k membuat kolom dalam
+ ba
+ris. Dan tag
+```<th>``` untuk membuat table head atau bagian kepala pada table
